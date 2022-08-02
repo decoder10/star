@@ -1,0 +1,14 @@
+@import '../../node_modules/@clientio/rappid/rappid.css';
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  .app {
+    height: 100vh;
+    width: 100vw;
+  }
+}
